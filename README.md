@@ -68,13 +68,15 @@ Informatics Engineering graduate from Politeknik Negeri Batam with a strong inte
 ### 📊 GitHub Statistics
 
 <a href="https://github.com/zidanikvan22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidanikvan22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanikvan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidanikvan22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidanikvan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=zidanikvan22&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="53%" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=zidanikvan22&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="53%" alt="GitHub Streak"/>
+</a>
 
 </div>
 
