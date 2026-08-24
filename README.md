@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B2B,50:1B0A3C,100:0D1B2A&height=200&section=header&text=Zidan%20Muhammad%20Ikvan&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,25:00C896,50:00BFA5,75:7C4DFF,100:1A237E&height=200&section=header&text=Zidan%20Muhammad%20Ikvan&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+Machine+Learning+Engineer;Full-Stack+Web+Developer;Computer+Vision+Enthusiast" alt="Typing SVG" /></a>
 
@@ -100,6 +100,6 @@ Informatics Engineering graduate from Politeknik Negeri Batam with a strong inte
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zidanikvan22&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/zidanikvan22)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B0A3C,100:0B0B2B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,25:7C4DFF,50:00BFA5,75:00C896,100:1A237E&height=100&section=footer" width="100%"/>
 
 </div>
